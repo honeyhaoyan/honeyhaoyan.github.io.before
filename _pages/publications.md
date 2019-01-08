@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /publications/
 author_profile: true
 ---
 #[Object objecness](for ICCV 2019)
