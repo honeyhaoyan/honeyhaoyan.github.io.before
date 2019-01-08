@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#[Object objecness](for ICCV 2019)
+# [Object objecness](for ICCV 2019)
 It is an in-progress project to segment objects from 3D data in different scenes with no priori knowledge based on PointNet structure.
 
 # [Compiler-2018](https://github.com/honeyhaoyan/compiler2018)
