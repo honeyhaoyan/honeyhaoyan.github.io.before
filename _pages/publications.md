@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 #[Object objecness](for ICCV 2019)
@@ -22,9 +22,9 @@ It is a project that provides a solution for problem C MCM/ICM, 2018. And my tea
 # [Mips-simulator-2017](https://github.com/honeyhaoyan/Mips)
 It is a C++ program that simulates five-stage pipeline to process MIPS instructions.
 
-# [STL-2017]
+# [[Map](https://github.com/honeyhaoyan/map), [Vector-2017](https://github.com/honeyhaoyan/vector)]
 It is a project designed three data structures in C++: [vector](https://github.com/honeyhaoyan/vector),[map](https://github.com/honeyhaoyan/map) and deque which can be used in the same
 way as in STL.
 
-# [Teaching Experience-2018]
-I served as a teaching assistant, designed part of the homework and exam problems and helped students with their problems about homework, in C++ Programming([CS152](https://acm.sjtu.edu.cn/wiki/Programming_2017)), 2018.
+# [Teaching Experience-2018](https://acm.sjtu.edu.cn/wiki/Programming_2017)
+I served as a teaching assistant, designed part of the homework and exam problems and helped students with their problems about homework, in C++ Programming(CS152), 2018.
