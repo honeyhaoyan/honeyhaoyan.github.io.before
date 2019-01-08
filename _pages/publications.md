@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Projects"
 permalink: /publications/
 author_profile: true
 ---
@@ -22,7 +22,7 @@ It is a project that provides a solution for problem C MCM/ICM, 2018. And my tea
 # [Mips-simulator-2017](https://github.com/honeyhaoyan/Mips)
 It is a C++ program that simulates five-stage pipeline to process MIPS instructions.
 
-# [[Map](https://github.com/honeyhaoyan/map), [Vector-2017](https://github.com/honeyhaoyan/vector)]
+# [Map](https://github.com/honeyhaoyan/map), [Vector-2017](https://github.com/honeyhaoyan/vector)
 It is a project designed three data structures in C++: [vector](https://github.com/honeyhaoyan/vector),[map](https://github.com/honeyhaoyan/map) and deque which can be used in the same
 way as in STL.
 
