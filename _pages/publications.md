@@ -11,7 +11,7 @@ It is an in-progress project to segment objects from 3D data in different scenes
 This project is a Compiler whose source language is simplified C and target language is MIPS assembly, a course project for Compiler 2018(MS208), ACM Class 2016, SJTU. Written in 2018.
 
 # [Visual Rhythm Prediction-2018](https://github.com/honeyhaoyan/Visual-Rhythm-Prediction-with-Feature-Aligning-Network)
-It is a paper for [ICMVA 2019](http://www.icmva.org/). In the project, we propose a data-driven visual rhythm prediction method, which overcomes the previous works' deficiency that predictions are made primarily by human-crafted hard rules. 
+It is a submitted paper. In the project, we propose a data-driven visual rhythm prediction method, which overcomes the previous works' deficiency that predictions are made primarily by human-crafted hard rules. 
 
 # [Item Recommendation-2018](https://github.com/honeyhaoyan/item-recommendation)
 It is a project for machine learning 2018(CS420), in which I constructed a recommender system to predict the preference score of the given user on the specific items.
